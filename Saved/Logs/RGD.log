@@ -5213,3 +5213,1557 @@ Sampler Limit: 32
 [2026.03.14-14.00.22:371][685]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5538.250488
 [2026.03.14-14.00.23:378][688]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.14-14.00.23:378][688]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5538.925293, Update Interval: 337.600037
+[2026.03.14-14.06.49:421][846]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5925.306641
+[2026.03.14-14.06.50:423][849]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.14-14.06.50:423][849]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5925.974609, Update Interval: 353.265167
+[2026.03.14-14.09.07:014][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.03.14-14.09.07:587][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.09.07:706][453]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widget/WBP_Parameter] ([2] browsable assets)...
+[2026.03.14-14.09.07:711][453]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widget/WBP_Parameter.WBP_Parameter]
+[2026.03.14-14.09.07:711][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_Parameter]
+[2026.03.14-14.09.07:711][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Parameter" FILE="../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset" SILENT=true
+[2026.03.14-14.09.07:723][453]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Parameter
+[2026.03.14-14.09.07:725][453]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/WBP_ParameterF4FA96EB4F83FDE2ECAB5089BCF6B530.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset'
+[2026.03.14-14.09.07:739][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.175 ms (total: 11.4 sec)
+[2026.03.14-14.09.07:923][453]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.09.07:923][453]LogContentValidation: Enabled validators:
+[2026.03.14-14.09.07:923][453]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.09.07:923][453]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.09.07:923][453]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.09.07:923][453]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.09.07:923][453]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.09.07:923][453]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.09.07:926][453]AssetCheck: /Game/Widget/WBP_Parameter Validating asset
+[2026.03.14-14.10.27:731][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.03.14-14.10.28:306][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.10.28:420][984]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widget/WBP_Parameter] ([2] browsable assets)...
+[2026.03.14-14.10.28:424][984]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widget/WBP_Parameter.WBP_Parameter]
+[2026.03.14-14.10.28:424][984]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_Parameter]
+[2026.03.14-14.10.28:424][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Parameter" FILE="../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset" SILENT=true
+[2026.03.14-14.10.28:439][984]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Parameter
+[2026.03.14-14.10.28:440][984]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/WBP_Parameter226996DD403575696107829AB7F3759B.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset'
+[2026.03.14-14.10.28:455][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.777 ms (total: 11.6 sec)
+[2026.03.14-14.10.28:616][984]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.10.28:616][984]LogContentValidation: Enabled validators:
+[2026.03.14-14.10.28:616][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.10.28:616][984]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.10.28:616][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.10.28:616][984]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.10.28:616][984]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.10.28:616][984]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.10.28:619][984]AssetCheck: /Game/Widget/WBP_Parameter Validating asset
+[2026.03.14-14.10.29:088][  8]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.14-14.10.29:103][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.14-14.10.29:103][  8]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2026.03.14-14.10.29:140][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036427s)
+[2026.03.14-14.10.29:140][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.036486s)
+[2026.03.14-14.10.29:164][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.14-14.10.29:168][  8]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2026.03.14-14.10.29:171][  8]LogPlayLevel: PIE: World Init took: (0.001646s)
+[2026.03.14-14.10.29:172][  8]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2026.03.14-14.10.29:172][  8]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.14-14.10.29:172][  8]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.14-14.10.29:172][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.14-14.10.29:172][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.14-14.10.29:172][  8]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.14-14.10.29:172][  8]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.14-14.10.29:172][  8]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.14-14.10.29:172][  8]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.14-14.10.29:172][  8]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.14-14.10.29:172][  8]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.14-14.10.29:172][  8]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.14-14.10.29:176][  8]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.14-14.10.29:284][  8]LogAudioMixer: Display: Using Audio Hardware Device Casque (Realtek(R) Audio)
+[2026.03.14-14.10.29:284][  8]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.14-14.10.29:284][  8]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.14-14.10.29:284][  8]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.14-14.10.29:286][  8]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2026.03.14-14.10.29:286][  8]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2026.03.14-14.10.29:289][  8]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2026.03.14-14.10.29:289][  8]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2026.03.14-14.10.29:289][  8]LogInit: FAudioDevice initialized with ID 36.
+[2026.03.14-14.10.29:289][  8]LogAudio: Display: Audio Device (ID: 36) registered with world 'LVL1'.
+[2026.03.14-14.10.29:289][  8]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2026.03.14-14.10.29:381][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.14-14.10.29:381][  8]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.14-14.10.29:390][  8]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2026.03.14-15.10.29
+[2026.03.14-14.10.29:391][  8]LogWorld: Bringing up level for play took: 0.008524
+[2026.03.14-14.10.29:393][  8]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2026.03.14-14.10.29:399][  8]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] loaded
+[2026.03.14-14.10.29:399][  8]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=-56.463 Y=-1275.592 Z=2.650
+[2026.03.14-14.10.29:403][  8]PIE: Server logged in
+[2026.03.14-14.10.29:405][  8]PIE: Play in editor total start time 0,301 seconds.
+[2026.03.14-14.10.29:509][  9]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.14-14.10.30:219][ 26]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-14.10.33:859][243]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-14.10.39:555][583]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-14.10.39:973][608]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-14.10.45:693][949]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-14.10.47:167][ 37]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-14.10.49:027][148]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-14.10.52:827][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.14-14.10.52:827][372]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2026.03.14-14.10.52:827][372]LogSlate: Window 'RGD Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.14-14.10.52:836][372]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-14.10.52:839][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.10.52:842][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.14-14.10.52:849][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.10.52:880][372]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.14-14.10.52:881][372]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2026.03.14-14.10.52:881][372]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=4
+[2026.03.14-14.10.52:883][372]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=2
+[2026.03.14-14.10.52:894][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.14-14.10.52:943][373]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2026.03.14-14.10.54:016][425]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.14-14.10.54:028][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.14-14.10.54:028][425]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2026.03.14-14.10.54:063][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034678s)
+[2026.03.14-14.10.54:063][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.034717s)
+[2026.03.14-14.10.54:091][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.03.14-14.10.54:093][425]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2026.03.14-14.10.54:095][425]LogPlayLevel: PIE: World Init took: (0.001542s)
+[2026.03.14-14.10.54:096][425]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2026.03.14-14.10.54:096][425]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.14-14.10.54:096][425]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.14-14.10.54:096][425]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.14-14.10.54:096][425]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.14-14.10.54:096][425]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.14-14.10.54:096][425]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.14-14.10.54:096][425]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.14-14.10.54:096][425]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.14-14.10.54:096][425]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.14-14.10.54:096][425]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.14-14.10.54:096][425]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.14-14.10.54:098][425]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.14-14.10.54:184][425]LogAudioMixer: Display: Using Audio Hardware Device Casque (Realtek(R) Audio)
+[2026.03.14-14.10.54:184][425]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.14-14.10.54:184][425]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.14-14.10.54:184][425]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.14-14.10.54:184][425]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2026.03.14-14.10.54:184][425]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2026.03.14-14.10.54:188][425]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2026.03.14-14.10.54:188][425]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2026.03.14-14.10.54:188][425]LogInit: FAudioDevice initialized with ID 37.
+[2026.03.14-14.10.54:188][425]LogAudio: Display: Audio Device (ID: 37) registered with world 'LVL1'.
+[2026.03.14-14.10.54:188][425]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2026.03.14-14.10.54:281][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.14-14.10.54:281][425]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.14-14.10.54:290][425]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2026.03.14-15.10.54
+[2026.03.14-14.10.54:290][425]LogWorld: Bringing up level for play took: 0.008786
+[2026.03.14-14.10.54:295][425]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2026.03.14-14.10.54:299][425]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] loaded
+[2026.03.14-14.10.54:299][425]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=-56.463 Y=-1275.592 Z=2.650
+[2026.03.14-14.10.54:302][425]PIE: Server logged in
+[2026.03.14-14.10.54:303][425]PIE: Play in editor total start time 0,275 seconds.
+[2026.03.14-14.10.54:377][426]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.14-14.10.54:808][435]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-14.10.56:592][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.14-14.10.56:592][540]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2026.03.14-14.10.56:593][540]LogSlate: Window 'RGD Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.14-14.10.56:606][540]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-14.10.56:609][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.10.56:610][540]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.14-14.10.56:621][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.10.56:668][540]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2026.03.14-14.10.56:669][540]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=4
+[2026.03.14-14.10.56:671][540]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=2
+[2026.03.14-14.10.56:690][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.03.14-14.10.56:760][541]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2026.03.14-14.10.56:860][544]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.14-14.10.58:229][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.10.58:336][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Widget/WBP_Parameter] ([2] browsable assets)...
+[2026.03.14-14.10.58:336][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_Parameter]
+[2026.03.14-14.10.58:336][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Parameter" FILE="../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset" SILENT=true
+[2026.03.14-14.10.58:348][617]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Parameter
+[2026.03.14-14.10.58:349][617]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/WBP_Parameter5C05F81B4F791F5E07BCB0A69AD6BACC.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset'
+[2026.03.14-14.10.58:363][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.259 ms (total: 11.7 sec)
+[2026.03.14-14.10.58:526][617]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.10.58:526][617]LogContentValidation: Enabled validators:
+[2026.03.14-14.10.58:526][617]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.10.58:526][617]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.10.58:526][617]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.10.58:526][617]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.10.58:526][617]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.10.58:526][617]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.10.58:528][617]AssetCheck: /Game/Widget/WBP_Parameter Validating asset
+[2026.03.14-14.11.12:588][407]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-14.11.12:588][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.11.12:663][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.14-14.11.13:867][452]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-14.11.13:867][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.11.13:922][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.03.14-14.11.15:434][517]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-14.11.15:434][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.11.15:499][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.03.14-14.11.19:888][762]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2026.03.14-14.11.19:889][762]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_65
+[2026.03.14-14.11.20:741][765]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_66
+[2026.03.14-14.11.44:262][107]LogEditorTransaction: Undo Delete current selection
+[2026.03.14-14.11.45:128][131]LogEditorTransaction: Undo Delete current selection
+[2026.03.14-14.11.45:766][159]LogEditorTransaction: Undo Delete current selection
+[2026.03.14-14.12.24:618][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.14-14.12.25:187][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.12.25:298][340]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.14-14.12.25:388][340]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.14-14.12.25:388][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.14-14.12.25:417][340]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.03.14-14.12.25:417][340]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/BP_ThirdPersonCharacter5F1F4D3F4AD7D511FE1F028269CF9D23.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.03.14-14.12.25:433][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 245.197 ms (total: 11.9 sec)
+[2026.03.14-14.12.25:635][340]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.12.25:635][340]LogContentValidation: Enabled validators:
+[2026.03.14-14.12.25:635][340]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.12.25:635][340]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.12.25:635][340]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.12.25:635][340]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.12.25:635][340]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.12.25:635][340]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.12.25:635][340]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.03.14-14.13.28:632][ 57]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6324.522949
+[2026.03.14-14.13.29:636][ 60]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.14-14.13.29:636][ 60]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6325.190430, Update Interval: 357.185577
+[2026.03.14-14.14.52:055][ 49]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_SaveGame.BP_SaveGame
+[2026.03.14-14.14.52:055][ 49]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_67
+[2026.03.14-14.15.09:686][914]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-14.15.09:686][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.15.09:878][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.03.14-14.15.12:119][ 27]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.14-14.15.12:119][ 27]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-14.15.12:121][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.15.12:253][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.03.14-14.15.17:479][315]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.15.17:597][315]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.14-14.15.17:597][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.14-14.15.17:633][315]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.03.14-14.15.17:634][315]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/BP_ThirdPersonCharacterB33065BB4630C1338931BB8D50BCAD9B.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.03.14-14.15.17:649][315]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.257 ms (total: 12.1 sec)
+[2026.03.14-14.15.17:823][315]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.15.17:823][315]LogContentValidation: Enabled validators:
+[2026.03.14-14.15.17:823][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.15.17:823][315]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.15.17:823][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.15.17:823][315]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.15.17:823][315]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.15.17:823][315]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.15.17:823][315]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.03.14-14.16.05:545][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.03.14-14.16.14:883][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.14-14.16.40:319][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.03.14-14.16.47:594][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.03.14-14.16.48:374][473]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.16.48:499][473]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_GI] ([2] browsable assets)...
+[2026.03.14-14.16.48:499][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_GI]
+[2026.03.14-14.16.48:499][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_GI" FILE="../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/BP/BP_GI.uasset" SILENT=true
+[2026.03.14-14.16.48:503][473]LogSavePackage: Moving output files for package: /Game/BP/BP_GI
+[2026.03.14-14.16.48:504][473]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/BP_GI29E9733B4223316E1AE7248D0E9286BE.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/BP/BP_GI.uasset'
+[2026.03.14-14.16.48:514][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.200 ms (total: 12.3 sec)
+[2026.03.14-14.16.48:680][473]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.16.48:681][473]LogContentValidation: Enabled validators:
+[2026.03.14-14.16.48:681][473]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.16.48:681][473]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.16.48:681][473]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.16.48:681][473]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.16.48:681][473]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.16.48:681][473]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.16.48:681][473]AssetCheck: /Game/BP/BP_GI Validating asset
+[2026.03.14-14.17.05:135][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.14-14.17.06:632][505]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.17.06:759][505]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_GI] ([2] browsable assets)...
+[2026.03.14-14.17.06:759][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_GI]
+[2026.03.14-14.17.06:759][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_GI" FILE="../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/BP/BP_GI.uasset" SILENT=true
+[2026.03.14-14.17.06:762][505]LogSavePackage: Moving output files for package: /Game/BP/BP_GI
+[2026.03.14-14.17.06:764][505]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/BP_GI35FA31B24E4893CA191404BE211256C2.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/BP/BP_GI.uasset'
+[2026.03.14-14.17.06:775][505]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.502 ms (total: 12.4 sec)
+[2026.03.14-14.17.06:952][505]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.17.06:952][505]LogContentValidation: Enabled validators:
+[2026.03.14-14.17.06:952][505]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.17.06:952][505]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.17.06:952][505]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.17.06:952][505]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.17.06:952][505]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.17.06:952][505]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.17.06:952][505]AssetCheck: /Game/BP/BP_GI Validating asset
+[2026.03.14-14.17.34:359][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.03.14-14.17.34:363][805]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LVL1' took 0.037
+[2026.03.14-14.17.34:363][805]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widget/WBP_Parameter] ([2] browsable assets)...
+[2026.03.14-14.17.34:369][805]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widget/WBP_Parameter.WBP_Parameter]
+[2026.03.14-14.17.34:369][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_Parameter]
+[2026.03.14-14.17.34:385][805]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widget/WBP_Parameter_Auto1
+[2026.03.14-14.17.34:385][805]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/WBP_Parameter_Auto1C879647C4818D8E50A19A09CE57B6637.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/Autosaves/Game/Widget/WBP_Parameter_Auto1.uasset'
+[2026.03.14-14.17.34:388][805]LogFileHelpers: Auto-saving content packages took 0.024
+[2026.03.14-14.18.38:086][980]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.18.38:202][980]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Widget/WBP_Parameter] ([2] browsable assets)...
+[2026.03.14-14.18.38:202][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_Parameter]
+[2026.03.14-14.18.38:202][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Parameter" FILE="../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset" SILENT=true
+[2026.03.14-14.18.38:212][980]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Parameter
+[2026.03.14-14.18.38:213][980]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/WBP_ParameterBA59B5614CCDC4A2B5FD83BFD9930408.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset'
+[2026.03.14-14.18.38:228][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.114 ms (total: 12.5 sec)
+[2026.03.14-14.18.38:403][980]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.18.38:403][980]LogContentValidation: Enabled validators:
+[2026.03.14-14.18.38:403][980]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.18.38:404][980]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.18.38:404][980]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.18.38:404][980]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.18.38:404][980]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.18.38:404][980]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.18.38:407][980]AssetCheck: /Game/Widget/WBP_Parameter Validating asset
+[2026.03.14-14.19.14:116][618]LogSlate: Window 'Fix Self Context Function References' being destroyed
+[2026.03.14-14.20.15:324][ 68]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6731.249023
+[2026.03.14-14.20.15:508][ 79]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.14-14.20.15:508][ 79]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6731.416504, Update Interval: 317.505432
+[2026.03.14-14.20.32:853][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.14-14.20.55:713][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.03.14-14.20.56:242][248]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.20.56:368][248]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_SaveGame] ([2] browsable assets)...
+[2026.03.14-14.20.56:368][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_SaveGame]
+[2026.03.14-14.20.56:368][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_SaveGame" FILE="../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/BP/BP_SaveGame.uasset" SILENT=true
+[2026.03.14-14.20.56:370][248]LogSavePackage: Moving output files for package: /Game/BP/BP_SaveGame
+[2026.03.14-14.20.56:371][248]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/BP_SaveGame40FD2CC741ABC75DC3BD2197DECC3FD8.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/BP/BP_SaveGame.uasset'
+[2026.03.14-14.20.56:380][248]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.002 ms (total: 12.7 sec)
+[2026.03.14-14.20.56:559][248]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.20.56:559][248]LogContentValidation: Enabled validators:
+[2026.03.14-14.20.56:559][248]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.20.56:559][248]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.20.56:559][248]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.20.56:559][248]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.20.56:559][248]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.20.56:559][248]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.20.56:560][248]AssetCheck: /Game/BP/BP_SaveGame Validating asset
+[2026.03.14-14.20.56:581][248]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.14-14.20.59:027][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.20.59:147][390]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widget/WBP_Parameter] ([2] browsable assets)...
+[2026.03.14-14.20.59:154][390]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widget/WBP_Parameter.WBP_Parameter]
+[2026.03.14-14.20.59:154][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_Parameter]
+[2026.03.14-14.20.59:154][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Parameter" FILE="../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset" SILENT=true
+[2026.03.14-14.20.59:168][390]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Parameter
+[2026.03.14-14.20.59:169][390]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/WBP_ParameterF56166E24B3ECE16553D4F949A6BF80C.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset'
+[2026.03.14-14.20.59:185][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.064 ms (total: 12.8 sec)
+[2026.03.14-14.20.59:368][390]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.20.59:369][390]LogContentValidation: Enabled validators:
+[2026.03.14-14.20.59:369][390]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.20.59:369][390]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.20.59:369][390]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.20.59:369][390]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.20.59:369][390]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.20.59:369][390]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.20.59:371][390]AssetCheck: /Game/Widget/WBP_Parameter Validating asset
+[2026.03.14-14.22.27:405][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.03.14-14.22.28:020][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.22.28:126][338]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widget/WBP_Parameter] ([2] browsable assets)...
+[2026.03.14-14.22.28:129][338]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widget/WBP_Parameter.WBP_Parameter]
+[2026.03.14-14.22.28:129][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_Parameter]
+[2026.03.14-14.22.28:129][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Parameter" FILE="../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset" SILENT=true
+[2026.03.14-14.22.28:145][338]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Parameter
+[2026.03.14-14.22.28:146][338]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/WBP_Parameter0E4067C24B2A4473DE229C930F1A6BB1.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset'
+[2026.03.14-14.22.28:159][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.585 ms (total: 13.0 sec)
+[2026.03.14-14.22.28:341][338]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.22.28:341][338]LogContentValidation: Enabled validators:
+[2026.03.14-14.22.28:341][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.22.28:341][338]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.22.28:341][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.22.28:341][338]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.22.28:341][338]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.22.28:341][338]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.22.28:345][338]AssetCheck: /Game/Widget/WBP_Parameter Validating asset
+[2026.03.14-14.22.40:899][ 38]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.14-14.22.58:641][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.22.58:755][ 13]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Widget/WBP_Parameter] ([2] browsable assets)...
+[2026.03.14-14.22.58:755][ 13]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_Parameter]
+[2026.03.14-14.22.58:756][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Parameter" FILE="../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset" SILENT=true
+[2026.03.14-14.22.58:773][ 13]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Parameter
+[2026.03.14-14.22.58:774][ 13]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/WBP_Parameter71C506284036B6B8FE6B12A8B2CBE765.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset'
+[2026.03.14-14.22.58:792][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.517 ms (total: 13.1 sec)
+[2026.03.14-14.22.58:964][ 13]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.22.58:964][ 13]LogContentValidation: Enabled validators:
+[2026.03.14-14.22.58:964][ 13]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.22.58:964][ 13]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.22.58:964][ 13]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.22.58:964][ 13]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.22.58:964][ 13]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.22.58:964][ 13]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.22.58:967][ 13]AssetCheck: /Game/Widget/WBP_Parameter Validating asset
+[2026.03.14-14.23.32:028][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.03.14-14.23.56:902][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.03.14-14.23.57:451][239]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.23.57:569][239]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widget/WBP_Parameter] ([2] browsable assets)...
+[2026.03.14-14.23.57:575][239]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widget/WBP_Parameter.WBP_Parameter]
+[2026.03.14-14.23.57:575][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_Parameter]
+[2026.03.14-14.23.57:575][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Parameter" FILE="../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset" SILENT=true
+[2026.03.14-14.23.57:594][239]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Parameter
+[2026.03.14-14.23.57:594][239]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/WBP_Parameter84A9B9834E66C0EC8AA211B73DA0F97F.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset'
+[2026.03.14-14.23.57:610][239]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.529 ms (total: 13.3 sec)
+[2026.03.14-14.23.57:789][239]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.23.57:789][239]LogContentValidation: Enabled validators:
+[2026.03.14-14.23.57:789][239]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.23.57:789][239]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.23.57:789][239]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.23.57:789][239]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.23.57:789][239]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.23.57:789][239]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.23.57:791][239]AssetCheck: /Game/Widget/WBP_Parameter Validating asset
+[2026.03.14-14.23.58:914][304]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.14-14.23.58:928][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.14-14.23.58:928][304]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2026.03.14-14.23.58:965][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037618s)
+[2026.03.14-14.23.58:965][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.037676s)
+[2026.03.14-14.23.58:989][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.03.14-14.23.59:002][304]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2026.03.14-14.23.59:003][304]LogPlayLevel: PIE: World Init took: (0.001821s)
+[2026.03.14-14.23.59:004][304]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2026.03.14-14.23.59:004][304]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.14-14.23.59:004][304]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.14-14.23.59:004][304]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.14-14.23.59:004][304]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.14-14.23.59:004][304]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.14-14.23.59:004][304]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.14-14.23.59:004][304]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.14-14.23.59:004][304]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.14-14.23.59:004][304]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.14-14.23.59:004][304]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.14-14.23.59:004][304]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.14-14.23.59:008][304]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.14-14.23.59:096][304]LogAudioMixer: Display: Using Audio Hardware Device Casque (Realtek(R) Audio)
+[2026.03.14-14.23.59:096][304]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.14-14.23.59:096][304]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.14-14.23.59:096][304]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.14-14.23.59:096][304]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2026.03.14-14.23.59:096][304]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2026.03.14-14.23.59:099][304]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2026.03.14-14.23.59:099][304]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2026.03.14-14.23.59:099][304]LogInit: FAudioDevice initialized with ID 38.
+[2026.03.14-14.23.59:099][304]LogAudio: Display: Audio Device (ID: 38) registered with world 'LVL1'.
+[2026.03.14-14.23.59:099][304]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2026.03.14-14.23.59:185][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.14-14.23.59:185][304]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.14-14.23.59:193][304]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2026.03.14-15.23.59
+[2026.03.14-14.23.59:194][304]LogWorld: Bringing up level for play took: 0.008771
+[2026.03.14-14.23.59:197][304]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2026.03.14-14.23.59:201][304]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] loaded
+[2026.03.14-14.23.59:201][304]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=-56.463 Y=-1275.592 Z=2.650
+[2026.03.14-14.23.59:205][304]PIE: Server logged in
+[2026.03.14-14.23.59:207][304]PIE: Play in editor total start time 0,28 seconds.
+[2026.03.14-14.23.59:306][305]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.14-14.24.00:542][353]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-14.24.02:893][494]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_36.WBP_Parameter_C_0
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:0526
+[2026.03.14-14.24.02:893][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.02:893][494]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_36.WBP_Parameter_C_0
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:0584
+[2026.03.14-14.24.02:893][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.05:330][640]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-14.24.05:591][656]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_36.WBP_Parameter_C_0
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:0435
+[2026.03.14-14.24.05:592][656]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.05:592][656]LogScript: Warning: Attempted to assign to None
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_36.WBP_Parameter_C_0
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:044A
+[2026.03.14-14.24.05:592][656]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.05:592][656]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_36.WBP_Parameter_C_0
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:047E
+[2026.03.14-14.24.05:592][656]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.05:592][656]LogScript: Warning: Attempted to assign to None
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_36.WBP_Parameter_C_0
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:0493
+[2026.03.14-14.24.05:592][656]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.06:043][683]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_36.WBP_Parameter_C_0
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:0435
+[2026.03.14-14.24.06:043][683]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.06:043][683]LogScript: Warning: Attempted to assign to None
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_36.WBP_Parameter_C_0
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:044A
+[2026.03.14-14.24.06:043][683]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.06:043][683]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_36.WBP_Parameter_C_0
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:047E
+[2026.03.14-14.24.06:043][683]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.06:043][683]LogScript: Warning: Attempted to assign to None
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_36.WBP_Parameter_C_0
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:0493
+[2026.03.14-14.24.06:043][683]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.06:193][692]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_36.WBP_Parameter_C_0
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:0435
+[2026.03.14-14.24.06:193][692]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.06:193][692]LogScript: Warning: Attempted to assign to None
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_36.WBP_Parameter_C_0
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:044A
+[2026.03.14-14.24.06:193][692]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.06:194][692]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_36.WBP_Parameter_C_0
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:047E
+[2026.03.14-14.24.06:194][692]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.06:194][692]LogScript: Warning: Attempted to assign to None
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_36.WBP_Parameter_C_0
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:0493
+[2026.03.14-14.24.06:194][692]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.06:344][701]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_36.WBP_Parameter_C_0
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:0435
+[2026.03.14-14.24.06:344][701]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.06:344][701]LogScript: Warning: Attempted to assign to None
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_36.WBP_Parameter_C_0
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:044A
+[2026.03.14-14.24.06:344][701]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.06:344][701]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.06:344][701]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.06:510][711]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.06:510][711]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.06:510][711]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.06:510][711]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.07:500][770]LogBlueprintUserMessages: [BP_Boomerang_C_0] Update
+[2026.03.14-14.24.07:500][770]LogBlueprintUserMessages: [BP_Boomerang_C_0] 2.312699
+[2026.03.14-14.24.07:500][770]LogBlueprintUserMessages: [BP_Boomerang_C_0] false
+[2026.03.14-14.24.10:852][971]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_36.WBP_Parameter_C_1
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:0526
+[2026.03.14-14.24.10:852][971]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.10:852][971]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_36.WBP_Parameter_C_1
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:0584
+[2026.03.14-14.24.10:852][971]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.12:036][ 42]LogBlueprintUserMessages: [BP_Boomerang_C_0] true
+[2026.03.14-14.24.12:060][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.14-14.24.12:060][ 42]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2026.03.14-14.24.12:060][ 42]LogSlate: Window 'RGD Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.14-14.24.12:069][ 42]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-14.24.12:070][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.24.12:072][ 42]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.14-14.24.12:078][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.24.12:114][ 42]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.14-14.24.12:114][ 42]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2026.03.14-14.24.12:114][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=4
+[2026.03.14-14.24.12:116][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=2
+[2026.03.14-14.24.12:127][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.03.14-14.24.12:347][ 43]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2026.03.14-14.24.35:437][284]LogSlate: Window 'Message Log' being destroyed
+[2026.03.14-14.24.35:451][284]LogSlate: Window 'Message Log' being destroyed
+[2026.03.14-14.24.44:367][791]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.14-14.24.44:380][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.14-14.24.44:380][791]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2026.03.14-14.24.44:415][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035126s)
+[2026.03.14-14.24.44:415][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.035191s)
+[2026.03.14-14.24.44:440][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.14-14.24.44:445][791]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2026.03.14-14.24.44:446][791]LogPlayLevel: PIE: World Init took: (0.001545s)
+[2026.03.14-14.24.44:447][791]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2026.03.14-14.24.44:447][791]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.14-14.24.44:447][791]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.14-14.24.44:447][791]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.14-14.24.44:447][791]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.14-14.24.44:447][791]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.14-14.24.44:447][791]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.14-14.24.44:447][791]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.14-14.24.44:447][791]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.14-14.24.44:447][791]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.14-14.24.44:447][791]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.14-14.24.44:447][791]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.14-14.24.44:449][791]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.14-14.24.44:533][791]LogAudioMixer: Display: Using Audio Hardware Device Casque (Realtek(R) Audio)
+[2026.03.14-14.24.44:533][791]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.14-14.24.44:533][791]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.14-14.24.44:533][791]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.14-14.24.44:533][791]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2026.03.14-14.24.44:533][791]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2026.03.14-14.24.44:537][791]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2026.03.14-14.24.44:537][791]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2026.03.14-14.24.44:537][791]LogInit: FAudioDevice initialized with ID 39.
+[2026.03.14-14.24.44:537][791]LogAudio: Display: Audio Device (ID: 39) registered with world 'LVL1'.
+[2026.03.14-14.24.44:537][791]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2026.03.14-14.24.44:627][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.14-14.24.44:627][791]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.14-14.24.44:635][791]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2026.03.14-15.24.44
+[2026.03.14-14.24.44:635][791]LogWorld: Bringing up level for play took: 0.007345
+[2026.03.14-14.24.44:638][791]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2026.03.14-14.24.44:643][791]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] loaded
+[2026.03.14-14.24.44:643][791]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=-56.463 Y=-1275.592 Z=2.650
+[2026.03.14-14.24.44:645][791]PIE: Server logged in
+[2026.03.14-14.24.44:647][791]PIE: Play in editor total start time 0,268 seconds.
+[2026.03.14-14.24.44:749][792]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.14-14.24.45:493][812]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-14.24.45:958][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.45:958][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.49:446][ 49]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.49:446][ 49]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.49:446][ 49]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.49:446][ 49]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.24.51:512][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.14-14.24.51:512][171]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2026.03.14-14.24.51:512][171]LogSlate: Window 'RGD Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.14-14.24.51:521][171]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-14.24.51:525][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.24.51:526][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.14-14.24.51:534][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.24.51:563][171]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2026.03.14-14.24.51:563][171]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39, StreamState=4
+[2026.03.14-14.24.51:565][171]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39, StreamState=2
+[2026.03.14-14.24.51:579][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.03.14-14.24.51:787][172]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2026.03.14-14.25.35:567][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.03.14-14.25.41:669][979]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.14-14.25.41:679][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.14-14.25.41:680][979]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2026.03.14-14.25.41:718][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037877s)
+[2026.03.14-14.25.41:718][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.037918s)
+[2026.03.14-14.25.41:744][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.03.14-14.25.41:750][979]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2026.03.14-14.25.41:752][979]LogPlayLevel: PIE: World Init took: (0.001755s)
+[2026.03.14-14.25.41:752][979]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2026.03.14-14.25.41:752][979]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.14-14.25.41:752][979]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.14-14.25.41:752][979]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.14-14.25.41:752][979]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.14-14.25.41:752][979]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.14-14.25.41:753][979]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.14-14.25.41:753][979]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.14-14.25.41:753][979]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.14-14.25.41:753][979]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.14-14.25.41:753][979]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.14-14.25.41:753][979]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.14-14.25.41:756][979]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.14-14.25.41:846][979]LogAudioMixer: Display: Using Audio Hardware Device Casque (Realtek(R) Audio)
+[2026.03.14-14.25.41:846][979]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.14-14.25.41:846][979]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.14-14.25.41:846][979]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.14-14.25.41:847][979]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2026.03.14-14.25.41:847][979]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2026.03.14-14.25.41:850][979]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2026.03.14-14.25.41:850][979]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2026.03.14-14.25.41:850][979]LogInit: FAudioDevice initialized with ID 40.
+[2026.03.14-14.25.41:850][979]LogAudio: Display: Audio Device (ID: 40) registered with world 'LVL1'.
+[2026.03.14-14.25.41:850][979]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2026.03.14-14.25.41:932][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.14-14.25.41:932][979]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.14-14.25.41:940][979]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2026.03.14-15.25.41
+[2026.03.14-14.25.41:941][979]LogWorld: Bringing up level for play took: 0.008587
+[2026.03.14-14.25.41:945][979]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2026.03.14-14.25.41:952][979]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] loaded
+[2026.03.14-14.25.41:952][979]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=-56.463 Y=-1275.592 Z=2.650
+[2026.03.14-14.25.41:955][979]PIE: Server logged in
+[2026.03.14-14.25.41:957][979]PIE: Play in editor total start time 0,278 seconds.
+[2026.03.14-14.25.42:063][980]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.14-14.25.42:419][984]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=40
+[2026.03.14-14.25.42:836][  2]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-14.25.45:377][154]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=300.379 Y=-1021.584 Z=2.650
+[2026.03.14-14.25.45:777][178]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] loaded
+[2026.03.14-14.25.45:777][178]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] X=300.379 Y=-1021.584 Z=2.650
+[2026.03.14-14.25.47:772][297]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.25.47:772][297]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.25.52:218][563]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-14.25.52:499][580]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.25.52:499][580]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.25.52:499][580]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.25.52:499][580]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.25.52:865][602]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.25.52:865][602]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.25.52:865][602]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.25.52:865][602]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.25.53:016][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.25.53:016][611]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.25.53:016][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.25.53:016][611]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.25.56:541][822]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_38.WBP_Parameter_C_1
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:04BE
+[2026.03.14-14.25.56:541][822]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.25.56:541][822]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_38.WBP_Parameter_C_1
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:051C
+[2026.03.14-14.25.56:541][822]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.25.57:670][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.14-14.25.57:670][887]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2026.03.14-14.25.57:671][887]LogSlate: Window 'RGD Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.14-14.25.57:679][887]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-14.25.57:681][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.25.57:682][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.14-14.25.57:689][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.25.57:716][887]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.14-14.25.57:717][887]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2026.03.14-14.25.57:717][887]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=4
+[2026.03.14-14.25.57:719][887]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=2
+[2026.03.14-14.25.57:733][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.03.14-14.25.57:875][888]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2026.03.14-14.26.19:126][ 87]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7095.059570
+[2026.03.14-14.26.19:325][ 99]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.14-14.26.19:326][ 99]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7095.242188, Update Interval: 336.074707
+[2026.03.14-14.28.11:188][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.03.14-14.28.11:192][765]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LVL1' took 0.035
+[2026.03.14-14.28.11:192][765]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.14-14.28.11:374][765]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.14-14.28.11:374][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.14-14.28.11:413][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2026.03.14-14.28.11:413][765]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/BP_ThirdPersonCharacter_Auto28DD855A54B81CE08C66D23A007F69846.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2026.03.14-14.28.11:415][765]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widget/WBP_Parameter] ([2] browsable assets)...
+[2026.03.14-14.28.11:420][765]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widget/WBP_Parameter.WBP_Parameter]
+[2026.03.14-14.28.11:420][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_Parameter]
+[2026.03.14-14.28.11:441][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widget/WBP_Parameter_Auto2
+[2026.03.14-14.28.11:441][765]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/WBP_Parameter_Auto28EDDB04A4AC945A53DF802BA78882C17.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/Autosaves/Game/Widget/WBP_Parameter_Auto2.uasset'
+[2026.03.14-14.28.11:442][765]LogFileHelpers: Auto-saving content packages took 0.250
+[2026.03.14-14.28.59:507][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.28.59:642][923]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widget/WBP_Parameter] ([2] browsable assets)...
+[2026.03.14-14.28.59:645][923]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widget/WBP_Parameter.WBP_Parameter]
+[2026.03.14-14.28.59:645][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_Parameter]
+[2026.03.14-14.28.59:645][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Parameter" FILE="../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset" SILENT=true
+[2026.03.14-14.28.59:662][923]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Parameter
+[2026.03.14-14.28.59:663][923]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/WBP_Parameter9C12BB8D445EAD9B64AFFFA82EB9A12E.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset'
+[2026.03.14-14.28.59:679][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.508 ms (total: 13.5 sec)
+[2026.03.14-14.28.59:854][923]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.28.59:855][923]LogContentValidation: Enabled validators:
+[2026.03.14-14.28.59:855][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.28.59:855][923]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.28.59:855][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.28.59:855][923]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.28.59:855][923]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.28.59:855][923]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.28.59:857][923]AssetCheck: /Game/Widget/WBP_Parameter Validating asset
+[2026.03.14-14.29.00:335][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.03.14-14.29.26:149][437]LogEditorTransaction: Undo Delete current selection
+[2026.03.14-14.29.32:963][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.03.14-14.29.41:841][212]LogSlate: Window 'Fix Self Context Function References' being destroyed
+[2026.03.14-14.29.56:185][981]LogDerivedDataCache: C:/Users/thibl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.14-14.30.22:267][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.03.14-14.30.22:899][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.30.23:011][454]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widget/WBP_Parameter] ([2] browsable assets)...
+[2026.03.14-14.30.23:014][454]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widget/WBP_Parameter.WBP_Parameter]
+[2026.03.14-14.30.23:014][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_Parameter]
+[2026.03.14-14.30.23:014][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Parameter" FILE="../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset" SILENT=true
+[2026.03.14-14.30.23:031][454]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Parameter
+[2026.03.14-14.30.23:032][454]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/WBP_Parameter94121F9544C1D956308E8B84B6A0161F.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset'
+[2026.03.14-14.30.23:052][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.949 ms (total: 13.6 sec)
+[2026.03.14-14.30.23:208][454]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.30.23:208][454]LogContentValidation: Enabled validators:
+[2026.03.14-14.30.23:208][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.30.23:208][454]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.30.23:208][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.30.23:209][454]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.30.23:209][454]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.30.23:209][454]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.30.23:210][454]AssetCheck: /Game/Widget/WBP_Parameter Validating asset
+[2026.03.14-14.31.02:094][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.14-14.31.03:217][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.31.03:328][713]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widget/WBP_Parameter] ([2] browsable assets)...
+[2026.03.14-14.31.03:332][713]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widget/WBP_Parameter.WBP_Parameter]
+[2026.03.14-14.31.03:332][713]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_Parameter]
+[2026.03.14-14.31.03:332][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Parameter" FILE="../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset" SILENT=true
+[2026.03.14-14.31.03:348][713]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Parameter
+[2026.03.14-14.31.03:349][713]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/WBP_ParameterCCDE43C24AB12E07D88BADA4050441A3.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset'
+[2026.03.14-14.31.03:363][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.850 ms (total: 13.8 sec)
+[2026.03.14-14.31.03:543][713]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.31.03:543][713]LogContentValidation: Enabled validators:
+[2026.03.14-14.31.03:543][713]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.31.03:543][713]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.31.03:543][713]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.31.03:543][713]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.31.03:543][713]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.31.03:543][713]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.31.03:543][713]AssetCheck: /Game/Widget/WBP_Parameter Validating asset
+[2026.03.14-14.31.15:210][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.03.14-14.31.15:701][383]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.31.15:826][383]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widget/WBP_Parameter] ([2] browsable assets)...
+[2026.03.14-14.31.15:831][383]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widget/WBP_Parameter.WBP_Parameter]
+[2026.03.14-14.31.15:831][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_Parameter]
+[2026.03.14-14.31.15:831][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Parameter" FILE="../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset" SILENT=true
+[2026.03.14-14.31.15:849][383]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Parameter
+[2026.03.14-14.31.15:849][383]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/WBP_ParameterE67636F240FFACB866824DBF5D085F9E.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset'
+[2026.03.14-14.31.15:862][383]LogFileHelpers: InternalPromptForCheckoutAndSave took 161.690 ms (total: 13.9 sec)
+[2026.03.14-14.31.16:025][383]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.31.16:025][383]LogContentValidation: Enabled validators:
+[2026.03.14-14.31.16:025][383]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.31.16:025][383]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.31.16:025][383]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.31.16:025][383]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.31.16:025][383]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.31.16:025][383]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.31.16:026][383]AssetCheck: /Game/Widget/WBP_Parameter Validating asset
+[2026.03.14-14.31.29:456][118]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.31.29:580][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.14-14.31.29:673][118]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.14-14.31.29:673][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.14-14.31.29:700][118]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.03.14-14.31.29:701][118]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/BP_ThirdPersonCharacter7716CACC4CB1FBD68C8FF4BCEB85D573.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.03.14-14.31.29:711][118]LogFileHelpers: InternalPromptForCheckoutAndSave took 255.565 ms (total: 14.2 sec)
+[2026.03.14-14.31.29:893][118]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.31.29:894][118]LogContentValidation: Enabled validators:
+[2026.03.14-14.31.29:894][118]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.31.29:894][118]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.31.29:894][118]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.31.29:894][118]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.31.29:894][118]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.31.29:894][118]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.31.29:894][118]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.03.14-14.31.38:299][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.03.14-14.31.38:808][625]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.31.38:935][625]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.14-14.31.39:028][625]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.14-14.31.39:028][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.14-14.31.39:063][625]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.03.14-14.31.39:064][625]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/BP_ThirdPersonCharacterF522802E4D1CE8416B679EB421C39EBA.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.03.14-14.31.39:080][625]LogFileHelpers: InternalPromptForCheckoutAndSave took 272.719 ms (total: 14.4 sec)
+[2026.03.14-14.31.39:261][625]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.31.39:261][625]LogContentValidation: Enabled validators:
+[2026.03.14-14.31.39:261][625]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.31.39:261][625]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.31.39:261][625]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.31.39:261][625]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.31.39:261][625]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.31.39:261][625]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.31.39:261][625]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.03.14-14.31.39:837][657]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.14-14.31.39:849][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.14-14.31.39:849][657]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2026.03.14-14.31.39:899][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049667s)
+[2026.03.14-14.31.39:899][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.049716s)
+[2026.03.14-14.31.39:933][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.03.14-14.31.39:940][657]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2026.03.14-14.31.39:942][657]LogPlayLevel: PIE: World Init took: (0.001886s)
+[2026.03.14-14.31.39:943][657]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2026.03.14-14.31.39:943][657]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.14-14.31.39:943][657]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.14-14.31.39:943][657]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.14-14.31.39:943][657]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.14-14.31.39:943][657]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.14-14.31.39:943][657]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.14-14.31.39:943][657]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.14-14.31.39:943][657]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.14-14.31.39:943][657]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.14-14.31.39:943][657]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.14-14.31.39:943][657]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.14-14.31.39:945][657]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.14-14.31.40:059][657]LogAudioMixer: Display: Using Audio Hardware Device Casque (Realtek(R) Audio)
+[2026.03.14-14.31.40:059][657]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.14-14.31.40:059][657]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.14-14.31.40:059][657]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.14-14.31.40:060][657]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2026.03.14-14.31.40:060][657]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2026.03.14-14.31.40:064][657]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2026.03.14-14.31.40:064][657]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2026.03.14-14.31.40:064][657]LogInit: FAudioDevice initialized with ID 41.
+[2026.03.14-14.31.40:064][657]LogAudio: Display: Audio Device (ID: 41) registered with world 'LVL1'.
+[2026.03.14-14.31.40:064][657]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2026.03.14-14.31.40:159][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.14-14.31.40:159][657]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.14-14.31.40:166][657]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2026.03.14-15.31.40
+[2026.03.14-14.31.40:167][657]LogWorld: Bringing up level for play took: 0.006281
+[2026.03.14-14.31.40:169][657]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2026.03.14-14.31.40:180][657]PIE: Server logged in
+[2026.03.14-14.31.40:186][657]PIE: Play in editor total start time 0,338 seconds.
+[2026.03.14-14.31.40:279][658]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.14-14.31.40:415][659]LogPSOHitching: Encountered 50 PSO creation hitches so far (5 graphics, 45 compute). 0 of them were precached.
+[2026.03.14-14.31.41:039][679]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-14.31.41:958][734]LogBlueprintUserMessages: [BP_Boomerang_C_0] Update
+[2026.03.14-14.31.41:958][734]LogBlueprintUserMessages: [BP_Boomerang_C_0] 0.0
+[2026.03.14-14.31.41:958][734]LogBlueprintUserMessages: [BP_Boomerang_C_0] false
+[2026.03.14-14.31.42:725][780]LogBlueprintUserMessages: [BP_Boomerang_C_0] true
+[2026.03.14-14.31.43:425][822]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.31.43:425][822]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.31.46:391][  0]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.31.46:391][  0]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.31.46:391][  0]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.31.46:391][  0]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.31.46:675][ 17]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.31.46:675][ 17]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.31.46:675][ 17]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.31.46:675][ 17]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.31.46:824][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.31.46:824][ 26]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.31.46:824][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.31.46:824][ 26]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.31.49:448][183]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_39.WBP_Parameter_C_1
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:04FC
+[2026.03.14-14.31.49:448][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.31.49:448][183]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_39.WBP_Parameter_C_1
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:055A
+[2026.03.14-14.31.49:448][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.31.51:389][299]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-14.31.51:606][312]LogBlueprintUserMessages: [BP_Boomerang_C_1] Update
+[2026.03.14-14.31.51:606][312]LogBlueprintUserMessages: [BP_Boomerang_C_1] 0.595588
+[2026.03.14-14.31.51:606][312]LogBlueprintUserMessages: [BP_Boomerang_C_1] false
+[2026.03.14-14.31.55:219][527]LogBlueprintUserMessages: [BP_Boomerang_C_1] true
+[2026.03.14-14.31.56:596][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.14-14.31.56:596][607]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2026.03.14-14.31.56:596][607]LogSlate: Window 'RGD Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.14-14.31.56:603][607]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-14.31.56:604][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.31.56:606][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.14-14.31.56:615][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.31.56:646][607]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.14-14.31.56:646][607]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2026.03.14-14.31.56:646][607]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=4
+[2026.03.14-14.31.56:649][607]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=2
+[2026.03.14-14.31.56:662][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.03.14-14.31.56:817][608]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2026.03.14-14.32.15:159][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.32.15:292][659]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widget/WBP_Parameter] ([2] browsable assets)...
+[2026.03.14-14.32.15:304][659]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widget/WBP_Parameter.WBP_Parameter]
+[2026.03.14-14.32.15:304][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_Parameter]
+[2026.03.14-14.32.15:304][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Parameter" FILE="../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset" SILENT=true
+[2026.03.14-14.32.15:324][659]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Parameter
+[2026.03.14-14.32.15:325][659]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/WBP_Parameter359B1BFC48ACE103DCBDF28C63B32821.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset'
+[2026.03.14-14.32.15:339][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 179.553 ms (total: 14.6 sec)
+[2026.03.14-14.32.15:519][659]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.32.15:519][659]LogContentValidation: Enabled validators:
+[2026.03.14-14.32.15:519][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.32.15:519][659]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.32.15:519][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.32.15:519][659]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.32.15:519][659]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.32.15:519][659]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.32.15:520][659]AssetCheck: /Game/Widget/WBP_Parameter Validating asset
+[2026.03.14-14.32.48:080][459]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7484.001953
+[2026.03.14-14.32.48:253][468]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.14-14.32.48:253][468]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7484.157715, Update Interval: 325.359039
+[2026.03.14-14.33.02:763][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.03.14-14.33.03:336][318]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.33.03:452][318]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widget/WBP_Parameter] ([2] browsable assets)...
+[2026.03.14-14.33.03:455][318]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widget/WBP_Parameter.WBP_Parameter]
+[2026.03.14-14.33.03:455][318]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_Parameter]
+[2026.03.14-14.33.03:455][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Parameter" FILE="../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset" SILENT=true
+[2026.03.14-14.33.03:474][318]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Parameter
+[2026.03.14-14.33.03:474][318]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/WBP_ParameterB569D1EE4F6E03DDA2589DB29E4CA46B.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset'
+[2026.03.14-14.33.03:488][318]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.008 ms (total: 14.8 sec)
+[2026.03.14-14.33.03:660][318]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.33.03:660][318]LogContentValidation: Enabled validators:
+[2026.03.14-14.33.03:660][318]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.33.03:660][318]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.33.03:661][318]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.33.03:661][318]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.33.03:661][318]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.33.03:661][318]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.33.03:661][318]AssetCheck: /Game/Widget/WBP_Parameter Validating asset
+[2026.03.14-14.33.04:995][396]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.14-14.33.05:009][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.14-14.33.05:010][396]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2026.03.14-14.33.05:050][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040041s)
+[2026.03.14-14.33.05:050][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.040124s)
+[2026.03.14-14.33.05:085][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.03.14-14.33.05:096][396]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2026.03.14-14.33.05:097][396]LogPlayLevel: PIE: World Init took: (0.001667s)
+[2026.03.14-14.33.05:099][396]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2026.03.14-14.33.05:099][396]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.14-14.33.05:099][396]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.14-14.33.05:099][396]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.14-14.33.05:099][396]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.14-14.33.05:099][396]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.14-14.33.05:099][396]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.14-14.33.05:099][396]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.14-14.33.05:099][396]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.14-14.33.05:099][396]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.14-14.33.05:099][396]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.14-14.33.05:099][396]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.14-14.33.05:101][396]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.14-14.33.05:208][396]LogAudioMixer: Display: Using Audio Hardware Device Casque (Realtek(R) Audio)
+[2026.03.14-14.33.05:209][396]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.14-14.33.05:209][396]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.14-14.33.05:209][396]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.14-14.33.05:210][396]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2026.03.14-14.33.05:210][396]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2026.03.14-14.33.05:213][396]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2026.03.14-14.33.05:213][396]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2026.03.14-14.33.05:213][396]LogInit: FAudioDevice initialized with ID 42.
+[2026.03.14-14.33.05:213][396]LogAudio: Display: Audio Device (ID: 42) registered with world 'LVL1'.
+[2026.03.14-14.33.05:213][396]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2026.03.14-14.33.05:306][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.14-14.33.05:306][396]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.14-14.33.05:313][396]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2026.03.14-15.33.05
+[2026.03.14-14.33.05:313][396]LogWorld: Bringing up level for play took: 0.006706
+[2026.03.14-14.33.05:317][396]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2026.03.14-14.33.05:324][396]PIE: Server logged in
+[2026.03.14-14.33.05:327][396]PIE: Play in editor total start time 0,318 seconds.
+[2026.03.14-14.33.05:423][397]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.14-14.33.06:165][418]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-14.33.07:478][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.07:478][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:277][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:277][725]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:277][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:277][725]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:277][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:277][725]LogBlueprintUserMessages: [WBP_Parameter_C_0] Hello
+[2026.03.14-14.33.11:277][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:277][725]LogBlueprintUserMessages: [WBP_Parameter_C_0] 0.0
+[2026.03.14-14.33.11:544][741]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:544][741]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:544][741]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:544][741]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:544][741]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:544][741]LogBlueprintUserMessages: [WBP_Parameter_C_0] Hello
+[2026.03.14-14.33.11:544][741]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:544][741]LogBlueprintUserMessages: [WBP_Parameter_C_0] 0.0
+[2026.03.14-14.33.11:694][750]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:694][750]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:694][750]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:694][750]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:694][750]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:694][750]LogBlueprintUserMessages: [WBP_Parameter_C_0] Hello
+[2026.03.14-14.33.11:694][750]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:694][750]LogBlueprintUserMessages: [WBP_Parameter_C_0] 0.0
+[2026.03.14-14.33.11:927][764]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:927][764]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:927][764]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:927][764]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:927][764]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:927][764]LogBlueprintUserMessages: [WBP_Parameter_C_0] Hello
+[2026.03.14-14.33.11:927][764]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.11:927][764]LogBlueprintUserMessages: [WBP_Parameter_C_0] 0.0
+[2026.03.14-14.33.12:261][784]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.12:261][784]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.12:261][784]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.12:261][784]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.12:261][784]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.12:261][784]LogBlueprintUserMessages: [WBP_Parameter_C_0] Hello
+[2026.03.14-14.33.12:261][784]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.12:261][784]LogBlueprintUserMessages: [WBP_Parameter_C_0] 0.0
+[2026.03.14-14.33.12:428][794]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.12:428][794]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.12:428][794]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.12:428][794]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.12:428][794]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.12:428][794]LogBlueprintUserMessages: [WBP_Parameter_C_0] Hello
+[2026.03.14-14.33.12:428][794]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.12:428][794]LogBlueprintUserMessages: [WBP_Parameter_C_0] 0.0
+[2026.03.14-14.33.12:577][803]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.12:577][803]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.12:577][803]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.12:577][803]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.12:577][803]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.12:577][803]LogBlueprintUserMessages: [WBP_Parameter_C_0] Hello
+[2026.03.14-14.33.12:577][803]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.12:577][803]LogBlueprintUserMessages: [WBP_Parameter_C_0] 0.0
+[2026.03.14-14.33.13:560][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.14-14.33.13:561][858]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2026.03.14-14.33.13:561][858]LogSlate: Window 'RGD Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.14-14.33.13:571][858]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-14.33.13:573][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.33.13:574][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.14-14.33.13:581][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.33.13:609][858]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.14-14.33.13:610][858]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2026.03.14-14.33.13:610][858]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=4
+[2026.03.14-14.33.13:612][858]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=2
+[2026.03.14-14.33.13:623][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.03.14-14.33.13:762][859]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2026.03.14-14.33.15:090][929]LogSlate: Window 'Message Log' being destroyed
+[2026.03.14-14.33.15:102][929]LogSlate: Window 'Message Log' being destroyed
+[2026.03.14-14.33.36:623][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.03.14-14.33.37:262][123]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-14.33.37:384][123]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widget/WBP_Parameter] ([2] browsable assets)...
+[2026.03.14-14.33.37:398][123]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widget/WBP_Parameter.WBP_Parameter]
+[2026.03.14-14.33.37:398][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_Parameter]
+[2026.03.14-14.33.37:398][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Parameter" FILE="../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset" SILENT=true
+[2026.03.14-14.33.37:417][123]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Parameter
+[2026.03.14-14.33.37:418][123]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/WBP_Parameter2C2D164445B7E895DE07EFB546EEB812.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset'
+[2026.03.14-14.33.37:438][123]LogFileHelpers: InternalPromptForCheckoutAndSave took 174.693 ms (total: 15.0 sec)
+[2026.03.14-14.33.37:618][123]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-14.33.37:618][123]LogContentValidation: Enabled validators:
+[2026.03.14-14.33.37:618][123]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-14.33.37:618][123]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-14.33.37:618][123]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-14.33.37:618][123]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-14.33.37:618][123]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-14.33.37:618][123]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-14.33.37:619][123]AssetCheck: /Game/Widget/WBP_Parameter Validating asset
+[2026.03.14-14.33.38:401][167]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.14-14.33.38:413][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.14-14.33.38:414][167]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2026.03.14-14.33.38:455][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041502s)
+[2026.03.14-14.33.38:455][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.041555s)
+[2026.03.14-14.33.38:495][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.03.14-14.33.38:503][167]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2026.03.14-14.33.38:505][167]LogPlayLevel: PIE: World Init took: (0.001808s)
+[2026.03.14-14.33.38:505][167]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2026.03.14-14.33.38:505][167]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.14-14.33.38:505][167]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.14-14.33.38:505][167]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.14-14.33.38:506][167]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.14-14.33.38:506][167]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.14-14.33.38:506][167]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.14-14.33.38:506][167]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.14-14.33.38:506][167]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.14-14.33.38:506][167]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.14-14.33.38:506][167]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.14-14.33.38:506][167]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.14-14.33.38:508][167]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.14-14.33.38:614][167]LogAudioMixer: Display: Using Audio Hardware Device Casque (Realtek(R) Audio)
+[2026.03.14-14.33.38:614][167]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.14-14.33.38:614][167]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.14-14.33.38:614][167]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.14-14.33.38:614][167]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2026.03.14-14.33.38:614][167]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2026.03.14-14.33.38:619][167]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2026.03.14-14.33.38:619][167]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2026.03.14-14.33.38:619][167]LogInit: FAudioDevice initialized with ID 43.
+[2026.03.14-14.33.38:619][167]LogAudio: Display: Audio Device (ID: 43) registered with world 'LVL1'.
+[2026.03.14-14.33.38:619][167]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2026.03.14-14.33.38:698][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.14-14.33.38:698][167]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.14-14.33.38:706][167]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2026.03.14-15.33.38
+[2026.03.14-14.33.38:706][167]LogWorld: Bringing up level for play took: 0.007247
+[2026.03.14-14.33.38:709][167]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2026.03.14-14.33.38:719][167]PIE: Server logged in
+[2026.03.14-14.33.38:721][167]PIE: Play in editor total start time 0,309 seconds.
+[2026.03.14-14.33.38:813][168]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.14-14.33.39:529][188]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-14.33.41:696][318]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.41:696][318]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.44:554][489]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-14.33.44:783][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.44:783][503]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.44:783][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.44:783][503]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.44:783][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.44:783][503]LogBlueprintUserMessages: [WBP_Parameter_C_0] Hello
+[2026.03.14-14.33.44:783][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.44:783][503]LogBlueprintUserMessages: [WBP_Parameter_C_0] 0.0
+[2026.03.14-14.33.45:133][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.45:133][524]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.45:133][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.45:133][524]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.45:133][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.45:133][524]LogBlueprintUserMessages: [WBP_Parameter_C_0] Hello
+[2026.03.14-14.33.45:133][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.45:133][524]LogBlueprintUserMessages: [WBP_Parameter_C_0] 0.0
+[2026.03.14-14.33.45:299][534]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.45:299][534]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.45:299][534]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.45:299][534]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.45:299][534]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.45:299][534]LogBlueprintUserMessages: [WBP_Parameter_C_0] Hello
+[2026.03.14-14.33.45:299][534]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.33.45:299][534]LogBlueprintUserMessages: [WBP_Parameter_C_0] 0.0
+[2026.03.14-14.33.45:586][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.14-14.33.45:586][549]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2026.03.14-14.33.45:586][549]LogSlate: Window 'RGD Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.14-14.33.45:595][549]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-14.33.45:597][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.33.45:598][549]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.14-14.33.45:605][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.33.45:636][549]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.14-14.33.45:637][549]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2026.03.14-14.33.45:637][549]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=4
+[2026.03.14-14.33.45:639][549]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=2
+[2026.03.14-14.33.45:652][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.14-14.33.45:868][550]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2026.03.14-14.33.48:767][711]LogSlate: Window 'Message Log' being destroyed
+[2026.03.14-14.33.48:775][711]LogSlate: Window 'Message Log' being destroyed
+[2026.03.14-14.38.53:564][909]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7849.479980
+[2026.03.14-14.38.53:749][920]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.14-14.38.53:749][920]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7849.646484, Update Interval: 349.038971
+[2026.03.14-14.45.32:901][825]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8248.814453
+[2026.03.14-14.45.33:899][828]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.14-14.45.33:899][828]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8249.474609, Update Interval: 305.088654
+[2026.03.14-14.45.41:869][303]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.14-14.45.41:881][303]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.14-14.45.41:881][303]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2026.03.14-14.45.41:920][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038310s)
+[2026.03.14-14.45.41:920][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.038362s)
+[2026.03.14-14.45.41:948][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.03.14-14.45.41:952][303]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2026.03.14-14.45.41:954][303]LogPlayLevel: PIE: World Init took: (0.001837s)
+[2026.03.14-14.45.41:955][303]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2026.03.14-14.45.41:955][303]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.14-14.45.41:955][303]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.14-14.45.41:955][303]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.14-14.45.41:955][303]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.14-14.45.41:955][303]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.14-14.45.41:955][303]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.14-14.45.41:955][303]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.14-14.45.41:955][303]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.14-14.45.41:955][303]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.14-14.45.41:955][303]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.14-14.45.41:955][303]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.14-14.45.41:957][303]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.14-14.45.42:045][303]LogAudioMixer: Display: Using Audio Hardware Device Casque (Realtek(R) Audio)
+[2026.03.14-14.45.42:045][303]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.14-14.45.42:045][303]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.14-14.45.42:045][303]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.14-14.45.42:045][303]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2026.03.14-14.45.42:045][303]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2026.03.14-14.45.42:047][303]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2026.03.14-14.45.42:047][303]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2026.03.14-14.45.42:047][303]LogInit: FAudioDevice initialized with ID 44.
+[2026.03.14-14.45.42:047][303]LogAudio: Display: Audio Device (ID: 44) registered with world 'LVL1'.
+[2026.03.14-14.45.42:047][303]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2026.03.14-14.45.42:165][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.14-14.45.42:165][303]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.14-14.45.42:175][303]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2026.03.14-15.45.42
+[2026.03.14-14.45.42:175][303]LogWorld: Bringing up level for play took: 0.009307
+[2026.03.14-14.45.42:178][303]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2026.03.14-14.45.42:187][303]PIE: Server logged in
+[2026.03.14-14.45.42:188][303]PIE: Play in editor total start time 0,307 seconds.
+[2026.03.14-14.45.42:282][304]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.14-14.45.43:244][336]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-14.45.44:276][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.45.44:276][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.45.47:076][566]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.45.47:076][566]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.45.47:076][566]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.45.47:076][566]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.45.47:076][566]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.45.47:076][566]LogBlueprintUserMessages: [WBP_Parameter_C_0] Hello
+[2026.03.14-14.45.47:076][566]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.45.47:076][566]LogBlueprintUserMessages: [WBP_Parameter_C_0] 0.0
+[2026.03.14-14.45.47:293][579]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.45.47:293][579]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.45.47:293][579]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.45.47:293][579]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.45.47:293][579]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.45.47:293][579]LogBlueprintUserMessages: [WBP_Parameter_C_0] Hello
+[2026.03.14-14.45.47:293][579]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.45.47:293][579]LogBlueprintUserMessages: [WBP_Parameter_C_0] 0.0
+[2026.03.14-14.45.47:444][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.45.47:444][588]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.45.47:444][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.45.47:444][588]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.45.47:444][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.45.47:444][588]LogBlueprintUserMessages: [WBP_Parameter_C_0] Hello
+[2026.03.14-14.45.47:444][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-14.45.47:444][588]LogBlueprintUserMessages: [WBP_Parameter_C_0] 0.0
+[2026.03.14-14.45.47:916][616]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-14.45.49:116][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.14-14.45.49:116][685]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2026.03.14-14.45.49:116][685]LogSlate: Window 'RGD Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.14-14.45.49:128][685]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-14.45.49:130][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.45.49:132][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.14-14.45.49:140][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-14.45.49:168][685]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2026.03.14-14.45.49:168][685]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=4
+[2026.03.14-14.45.49:171][685]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=2
+[2026.03.14-14.45.49:181][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.14-14.45.49:412][686]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2026.03.14-14.46.44:424][496]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.14-14.51.17:638][372]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8593.519531
+[2026.03.14-14.51.17:819][383]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.14-14.51.17:819][383]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8593.680664, Update Interval: 302.424377
+[2026.03.14-14.57.00:681][879]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8936.514648
+[2026.03.14-14.57.00:850][889]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.14-14.57.00:851][889]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8936.667969, Update Interval: 359.531250
+[2026.03.14-15.03.36:433][253]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9332.274414
+[2026.03.14-15.03.36:624][264]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.14-15.03.36:624][264]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9332.442383, Update Interval: 309.593201
+[2026.03.14-15.09.25:869][176]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9681.717773
+[2026.03.14-15.09.26:038][186]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.14-15.09.26:038][186]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9681.868164, Update Interval: 317.778259
+[2026.03.14-15.12.32:675][ 68]LogSlate: Window 'Message Log' being destroyed
+[2026.03.14-15.12.32:684][ 68]LogSlate: Window 'Message Log' being destroyed
+[2026.03.14-15.12.57:933][517]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-15.12.58:058][517]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Widget/WBP_Parameter] ([2] browsable assets)...
+[2026.03.14-15.12.58:058][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_Parameter]
+[2026.03.14-15.12.58:058][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Parameter" FILE="../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset" SILENT=true
+[2026.03.14-15.12.58:076][517]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Parameter
+[2026.03.14-15.12.58:077][517]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/WBP_Parameter7FDC1DCC42B3679378BDDE9341733C70.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset'
+[2026.03.14-15.12.58:092][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.416 ms (total: 15.1 sec)
+[2026.03.14-15.12.58:273][517]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-15.12.58:273][517]LogContentValidation: Enabled validators:
+[2026.03.14-15.12.58:273][517]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-15.12.58:273][517]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-15.12.58:273][517]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-15.12.58:273][517]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-15.12.58:273][517]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-15.12.58:273][517]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-15.12.58:274][517]AssetCheck: /Game/Widget/WBP_Parameter Validating asset
+[2026.03.14-15.13.00:081][588]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.14-15.13.00:090][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.14-15.13.00:090][588]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2026.03.14-15.13.00:127][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036755s)
+[2026.03.14-15.13.00:127][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.036800s)
+[2026.03.14-15.13.00:156][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.14-15.13.00:162][588]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2026.03.14-15.13.00:163][588]LogPlayLevel: PIE: World Init took: (0.001706s)
+[2026.03.14-15.13.00:164][588]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2026.03.14-15.13.00:164][588]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.14-15.13.00:164][588]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.14-15.13.00:164][588]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.14-15.13.00:164][588]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.14-15.13.00:164][588]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.14-15.13.00:164][588]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.14-15.13.00:164][588]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.14-15.13.00:164][588]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.14-15.13.00:164][588]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.14-15.13.00:164][588]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.14-15.13.00:164][588]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.14-15.13.00:167][588]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.14-15.13.00:276][588]LogAudioMixer: Display: Using Audio Hardware Device Casque (Realtek(R) Audio)
+[2026.03.14-15.13.00:276][588]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.14-15.13.00:276][588]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.14-15.13.00:276][588]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.14-15.13.00:277][588]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2026.03.14-15.13.00:277][588]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2026.03.14-15.13.00:281][588]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2026.03.14-15.13.00:281][588]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2026.03.14-15.13.00:281][588]LogInit: FAudioDevice initialized with ID 45.
+[2026.03.14-15.13.00:281][588]LogAudio: Display: Audio Device (ID: 45) registered with world 'LVL1'.
+[2026.03.14-15.13.00:281][588]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2026.03.14-15.13.00:364][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.14-15.13.00:364][588]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.14-15.13.00:373][588]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2026.03.14-16.13.00
+[2026.03.14-15.13.00:374][588]LogWorld: Bringing up level for play took: 0.008497
+[2026.03.14-15.13.00:376][588]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2026.03.14-15.13.00:398][588]PIE: Server logged in
+[2026.03.14-15.13.00:402][588]PIE: Play in editor total start time 0,312 seconds.
+[2026.03.14-15.13.00:473][589]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.14-15.13.01:065][608]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-15.13.01:845][655]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.01:845][655]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.04:578][819]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.04:578][819]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.04:578][819]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.04:578][819]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.04:578][819]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.04:578][819]LogBlueprintUserMessages: [WBP_Parameter_C_0] Hello
+[2026.03.14-15.13.04:578][819]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.04:578][819]LogBlueprintUserMessages: [WBP_Parameter_C_0] 0.0
+[2026.03.14-15.13.05:351][865]LogBlueprintUserMessages: [BP_Boomerang_C_0] Update
+[2026.03.14-15.13.05:351][865]LogBlueprintUserMessages: [BP_Boomerang_C_0] 1.480264
+[2026.03.14-15.13.05:351][865]LogBlueprintUserMessages: [BP_Boomerang_C_0] false
+[2026.03.14-15.13.08:180][ 35]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_43.WBP_Parameter_C_1
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:06F3
+[2026.03.14-15.13.08:180][ 35]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.08:182][ 35]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_43.WBP_Parameter_C_1
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:0751
+[2026.03.14-15.13.08:182][ 35]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.08:731][ 68]LogBlueprintUserMessages: [BP_Boomerang_C_0] true
+[2026.03.14-15.13.09:601][120]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-15.13.10:932][200]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_43.WBP_Parameter_C_2
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:06F3
+[2026.03.14-15.13.10:932][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.10:932][200]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_43.WBP_Parameter_C_2
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:0751
+[2026.03.14-15.13.10:932][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.13:135][332]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-15.13.13:314][343]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_43.WBP_Parameter_C_2
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:05C0
+[2026.03.14-15.13.13:314][343]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.13:314][343]LogScript: Warning: Attempted to assign to None
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_43.WBP_Parameter_C_2
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:05D5
+[2026.03.14-15.13.13:314][343]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.13:314][343]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_43.WBP_Parameter_C_2
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:067E
+[2026.03.14-15.13.13:314][343]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.13:314][343]LogScript: Warning: Attempted to assign to None
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_43.WBP_Parameter_C_2
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:0693
+[2026.03.14-15.13.13:314][343]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.13:314][343]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_43.WBP_Parameter_C_2
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:0258
+[2026.03.14-15.13.13:314][343]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.13:314][343]LogBlueprintUserMessages: [WBP_Parameter_C_2] Hello
+[2026.03.14-15.13.13:315][343]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_43.WBP_Parameter_C_2
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:02DF
+[2026.03.14-15.13.13:315][343]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.13:315][343]LogBlueprintUserMessages: [WBP_Parameter_C_2] 0.0
+[2026.03.14-15.13.13:515][355]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_43.WBP_Parameter_C_2
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:05C0
+[2026.03.14-15.13.13:515][355]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.13:515][355]LogScript: Warning: Attempted to assign to None
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_43.WBP_Parameter_C_2
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:05D5
+[2026.03.14-15.13.13:515][355]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.13:515][355]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_43.WBP_Parameter_C_2
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:067E
+[2026.03.14-15.13.13:515][355]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.13:515][355]LogScript: Warning: Attempted to assign to None
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_43.WBP_Parameter_C_2
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:0693
+[2026.03.14-15.13.13:515][355]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.13:515][355]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_43.WBP_Parameter_C_2
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:0258
+[2026.03.14-15.13.13:515][355]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.13:515][355]LogBlueprintUserMessages: [WBP_Parameter_C_2] Hello
+[2026.03.14-15.13.13:515][355]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_43.WBP_Parameter_C_2
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:02DF
+[2026.03.14-15.13.13:515][355]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.13:515][355]LogBlueprintUserMessages: [WBP_Parameter_C_2] 0.0
+[2026.03.14-15.13.13:664][364]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_43.WBP_Parameter_C_2
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:05C0
+[2026.03.14-15.13.13:664][364]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.13:664][364]LogScript: Warning: Attempted to assign to None
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_43.WBP_Parameter_C_2
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:05D5
+[2026.03.14-15.13.13:664][364]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Speed Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.13:664][364]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.13:664][364]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Delay Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.13:664][364]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.13:664][364]LogBlueprintUserMessages: [WBP_Parameter_C_2] Hello
+[2026.03.14-15.13.13:664][364]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.13:664][364]LogBlueprintUserMessages: [WBP_Parameter_C_2] 0.0
+[2026.03.14-15.13.14:022][385]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] c'est pas bon
+[2026.03.14-15.13.15:017][445]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_43.WBP_Parameter_C_3
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:06F3
+[2026.03.14-15.13.15:017][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.15:017][445]LogScript: Warning: Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C
+	WBP_Parameter_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_43.WBP_Parameter_C_3
+	Function /Game/Widget/WBP_Parameter.WBP_Parameter_C:ExecuteUbergraph_WBP_Parameter:0751
+[2026.03.14-15.13.15:017][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Save_Game_Object in WBP_Parameter_C". Node:  Set Value Graph:  EventGraph Function:  Execute Ubergraph WBP Parameter Blueprint:  WBP_Parameter
+[2026.03.14-15.13.16:044][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.14-15.13.16:044][503]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2026.03.14-15.13.16:046][503]LogSlate: Window 'RGD Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.14-15.13.16:053][503]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.13.16:055][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.13.16:056][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.14-15.13.16:064][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.13.16:102][503]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2026.03.14-15.13.16:102][503]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=4
+[2026.03.14-15.13.16:104][503]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=2
+[2026.03.14-15.13.16:121][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.03.14-15.13.16:408][504]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2026.03.14-15.13.17:861][579]LogSlate: Window 'Message Log' being destroyed
+[2026.03.14-15.13.17:870][579]LogSlate: Window 'Message Log' being destroyed
+[2026.03.14-15.13.52:136][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.03.14-15.13.52:705][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-15.13.52:822][121]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widget/WBP_Parameter] ([2] browsable assets)...
+[2026.03.14-15.13.52:834][121]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widget/WBP_Parameter.WBP_Parameter]
+[2026.03.14-15.13.52:834][121]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_Parameter]
+[2026.03.14-15.13.52:834][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Parameter" FILE="../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset" SILENT=true
+[2026.03.14-15.13.52:852][121]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Parameter
+[2026.03.14-15.13.52:853][121]LogSavePackage: Moving '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Saved/WBP_Parameter5451271442C4DAAB685A21A28DC48BA6.tmp' to '../../../../../../Users/thibl/OneDrive/Desktop/github/Boomrang/Content/Widget/WBP_Parameter.uasset'
+[2026.03.14-15.13.52:867][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.427 ms (total: 15.3 sec)
+[2026.03.14-15.13.53:050][121]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.14-15.13.53:050][121]LogContentValidation: Enabled validators:
+[2026.03.14-15.13.53:050][121]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-15.13.53:050][121]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-15.13.53:050][121]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-15.13.53:050][121]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-15.13.53:050][121]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-15.13.53:050][121]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-15.13.53:052][121]AssetCheck: /Game/Widget/WBP_Parameter Validating asset
+[2026.03.14-15.14.53:063][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.14-15.14.54:973][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.03.14-15.14.55:048][584]LogStall: Shutdown...
+[2026.03.14-15.14.55:048][584]LogStall: Shutdown complete.
+[2026.03.14-15.14.55:133][584]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.14-15.14.55:133][584]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.14.55:134][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.14.55:469][584]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.14.55:470][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.14.55:484][584]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.14.55:484][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.14.55:606][584]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.14.55:607][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.14.55:718][584]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.14.55:718][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.14.55:780][584]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.14-15.14.55:780][584]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.14.55:780][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.14.55:880][584]LogSlate: Window 'RGD - Unreal Editor' being destroyed
+[2026.03.14-15.14.56:807][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.03.14-15.14.56:868][584]Cmd: QUIT_EDITOR
+[2026.03.14-15.14.56:868][585]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.14-15.14.56:891][585]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.14-15.14.56:893][585]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.14-15.14.56:893][585]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.14-15.14.56:898][585]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.14.56:898][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.14.56:930][585]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.14-15.14.56:932][585]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.14-15.14.56:937][585]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.14-15.14.56:973][585]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.14.56:973][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.14.56:977][585]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.14.56:977][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.14.56:982][585]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.14.56:982][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.14.56:985][585]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.14.56:985][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.14.56:988][585]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.14.56:989][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.14.56:991][585]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.14.56:991][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.14.56:995][585]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.14.56:996][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.14.56:999][585]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.14.56:999][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.14.57:005][585]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.14.57:005][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.14.57:008][585]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.14.57:008][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.14.57:018][585]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.14-15.14.57:020][585]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.14-15.14.57:029][585]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.14-15.14.57:048][585]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.14-15.14.57:049][585]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.14-15.14.57:049][585]LogAudio: Display: Audio Device unregistered from world 'LVL1'.
+[2026.03.14-15.14.57:049][585]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.14-15.14.57:049][585]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.14-15.14.57:054][585]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.14-15.14.57:067][585]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.14-15.14.57:067][585]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.14-15.14.57:070][585]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2026.03.14-15.14.57:076][585]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.14-15.14.57:076][585]LogExit: Preparing to exit.
+[2026.03.14-15.14.57:144][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.03.14-15.14.57:152][585]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.14.57:152][585]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.14.57:154][585]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.14.57:154][585]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.14.57:154][585]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.14.57:154][585]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.14.57:154][585]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.14.57:154][585]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.14.57:154][585]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.14.57:154][585]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.14.57:154][585]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.14.57:154][585]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.14.57:154][585]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.14.57:154][585]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.14.57:154][585]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.14.57:154][585]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.14.57:154][585]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.14.57:154][585]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.14.57:155][585]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.14.57:155][585]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.14.57:155][585]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.14.57:774][585]LogEditorDataStorage: Deinitializing
+[2026.03.14-15.14.58:047][585]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.14-15.14.58:174][585]LogExit: Editor shut down
+[2026.03.14-15.14.58:208][585]LogExit: Transaction tracking system shut down
+[2026.03.14-15.14.58:944][585]LogExit: Object subsystem successfully closed.
+[2026.03.14-15.14.58:967][585]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.14-15.14.59:315][585]LogMemoryProfiler: Shutdown
+[2026.03.14-15.14.59:316][585]LogNetworkingProfiler: Shutdown
+[2026.03.14-15.14.59:316][585]LoadingProfiler: Shutdown
+[2026.03.14-15.14.59:317][585]LogTimingProfiler: Shutdown
+[2026.03.14-15.14.59:321][585]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.14-15.14.59:322][585]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.03.14-15.15.00:030][585]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.14-15.15.00:031][585]LogNFORDenoise: NFORDenoise function shutting down
