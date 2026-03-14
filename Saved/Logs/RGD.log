@@ -2519,3 +2519,4 @@ Sampler Limit: 32
 [2026.03.14-11.33.54:497][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
 [2026.03.14-11.33.54:893][284]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
 [2026.03.14-11.34.02:711][719]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.03.14-11.34.58:423][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
