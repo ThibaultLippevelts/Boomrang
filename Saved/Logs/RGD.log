@@ -17812,3 +17812,6 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2026.03.17-19.12.00:650][381]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
 [2026.03.17-19.12.00:650][381]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
 [2026.03.17-19.12.00:650][381]LogPakFile: Destroying PakPlatformFile
+[2026.03.17-19.12.01:719][381]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.17-19.12.01:939][381]LogExit: Exiting.
+[2026.03.17-19.12.01:985][381]Log file closed, 03/17/26 20:12:01
